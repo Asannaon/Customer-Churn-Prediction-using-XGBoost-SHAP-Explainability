@@ -1,8 +1,6 @@
-Siap! Berikut adalah versi **Bahasa Inggris** dari README kamu, sudah dirapikan, dibetulkan typo, dan dibuat lebih profesional.
-
 ---
 
-# 📊 Customer Churn Prediction using XGBoost + SHAP Explainability
+# Customer Churn Prediction using XGBoost + SHAP Explainability
 
 This repository contains a complete end-to-end project for analyzing and predicting **Customer Churn** using the **XGBoost Classifier**, enhanced with **SHAP explainability** to understand the key features influencing churn behavior.
 
@@ -10,7 +8,7 @@ The entire workflow — from EDA, preprocessing, modeling, evaluation, to SHAP i
 
 ---
 
-## 🚀 Project Objectives
+## Project Objectives
 
 * Clean and prepare the IBM Telco Customer Churn dataset.
 * Build a predictive model using **XGBoost Classifier**.
@@ -21,7 +19,7 @@ The entire workflow — from EDA, preprocessing, modeling, evaluation, to SHAP i
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 * Python 3.x
 * Pandas, NumPy
@@ -33,7 +31,7 @@ The entire workflow — from EDA, preprocessing, modeling, evaluation, to SHAP i
 
 ---
 
-## 📈 Key Model Results
+##  Key Model Results
 
 * **Accuracy:** ~0.76 – 0.79
 * **Precision (Churn):** ~0.56
@@ -42,7 +40,7 @@ The entire workflow — from EDA, preprocessing, modeling, evaluation, to SHAP i
 
 ---
 
-## 🔍 Key Insights from SHAP
+##  Key Insights from SHAP
 
 * **Tenure** is the most influential feature — customers with shorter tenure are more likely to churn.
 * Higher **MonthlyCharges** increase the probability of churn.
@@ -75,7 +73,7 @@ SHAP visualizations — including summary plot, beeswarm, and decision plot — 
 
 ---
 
-## 📌 Why This Project Matters
+##  Why This Project Matters
 
 * Demonstrates full end-to-end data analysis skills.
 * Utilizes a production-grade machine learning model (XGBoost).
@@ -84,10 +82,10 @@ SHAP visualizations — including summary plot, beeswarm, and decision plot — 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Tarsan Asan**
 Data Analyst & Machine Learning Enthusiast
-📬 LinkedIn: *(Tarsan Asan)*
+ LinkedIn: *(Tarsan Asan)*
 
 ---
